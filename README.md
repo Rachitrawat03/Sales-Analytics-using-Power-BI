@@ -16,7 +16,6 @@ This project involves the creation of a comprehensive sales analytics dashboard 
 - **Dynamic Trend Charts:** Visualizes sales trends over time, including month-over-month and year-over-year comparisons.
 - **Grouping & Histograms:** Aggregates data into meaningful groups and displays the distribution of data.
 - **Zoom Sliders:** Interactive sliders to zoom in and out on visualizations.
-- **Alert Icons:** Indicates potential issues or areas of concern within the data.
 
 ## Dashboard Components
 
